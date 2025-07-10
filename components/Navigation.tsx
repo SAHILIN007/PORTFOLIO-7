@@ -79,7 +79,7 @@ export default function Navigation() {
               onClick={() => handleNavClick('#home')}
               className="text-2xl font-bold font-space-grotesk bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent hover:from-purple-300 hover:to-pink-300 transition-all duration-300"
             >
-              SECS
+              SS
             </button>
           </motion.div>
 
