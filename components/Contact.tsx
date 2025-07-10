@@ -84,19 +84,19 @@ export default function Contact() {
               <h4 className="text-lg font-bold mb-4">Follow Me</h4>
               <div className="flex gap-4">
                 <a
-                  href="#"
+                  href="https://github.com/SAHILIN007"
                   className="w-12 h-12 bg-gradient-purple-dark border border-purple-500/20 rounded-full flex items-center justify-center hover:border-purple-400/40 transition-all duration-300 interactive"
                 >
                   <Github className="w-5 h-5" />
                 </a>
                 <a
-                  href="#"
+                  href="www.linkedin.com/in/sahil-singh-11b534305"
                   className="w-12 h-12 bg-gradient-purple-dark border border-purple-500/20 rounded-full flex items-center justify-center hover:border-purple-400/40 transition-all duration-300 interactive"
                 >
                   <Linkedin className="w-5 h-5" />
                 </a>
                 <a
-                  href="#"
+                  href="https://x.com/Sahil_in_007"
                   className="w-12 h-12 bg-gradient-purple-dark border border-purple-500/20 rounded-full flex items-center justify-center hover:border-purple-400/40 transition-all duration-300 interactive"
                 >
                   <Twitter className="w-5 h-5" />
