@@ -120,7 +120,7 @@ export default function Navigation() {
           {/* GitHub Link */}
           <div className="hidden md:flex items-center space-x-4">
             <motion.a
-              href="https://github.com/sahilsingh"
+              href="https://github.com/SAHILIN007"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-gray-300 hover:text-white transition-colors duration-300 relative group"
